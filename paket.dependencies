@@ -1,0 +1,6 @@
+source https://ci.appveyor.com/nuget/specflow-ci
+source D:\work\all\NuGet
+source https://www.nuget.org/api/v2/
+
+nuget FSharp.Core
+nuget FSharp.Data prerelease
